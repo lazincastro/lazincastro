@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Linux
 ## Connect with Me
 - [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Blog](link-to-blog)
