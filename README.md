@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Terraform
 - 💬 Ask me about Linux
 ## Connect with Me
-- [LinkedIn](link-to-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/lazincastro/)
