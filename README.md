@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 # Hello, I'm Lazaro. 👋
 
 ## About Me
-- 🔭 I’m currently working on Iteris
-- 🌱 I’m currently learning Terraform
-- 💬 Ask me about Linux
+- 🔭 I’m currently working on Globant
+- 🌱 I’m currently learning Java
+- 💬 Ask me about whatever you want
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lazincastro/)
