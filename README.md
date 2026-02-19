@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hello, I'm Lazaro. 👋
 
 ## About Me
-- 🔭 I’m currently working on Globant
+- 🔭 I’m currently working with Linux and Openshift
 - 🌱 I’m currently learning Java
 - 💬 Ask me about whatever you want
 ## Connect with Me
