@@ -1,22 +1,52 @@
-<!--
-**lazincastro/lazincastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Lazaro 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Linux • OpenShift • Kubernetes • Automation • DevOps
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, I'm Lazaro. 👋
+---
 
-## About Me
-- 🔭 I’m currently working with Linux and Openshift
-- 🌱 I’m currently learning Java
-- 💬 Ask me about whatever you want
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/lazincastro/)
+## 🚀 About Me
+
+- 🐧 Working daily with **Linux environments**
+- ☸️ Managing and troubleshooting **OpenShift / Kubernetes**
+- 🔧 Automating things that shouldn’t be manual
+- 🌱 Currently improving my **Java** skills
+- 💬 Ask me about Linux, containers, infra, regex or shell scripting
+
+---
+
+## 🛠 Tech Stack
+
+### Infrastructure & Containers
+- Linux
+- OpenShift
+- Kubernetes
+- Docker
+- Podman
+
+### Scripting & Development
+- Bash
+- Lua
+- Java (learning)
+- Vim / Neovim customization
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 **tiny-vim** – Minimal and fast Vim setup
+- 🔹 **nvim** – Agnostic Neovim configuration
+- 🔹 **Mastering-Regular-Expressions** – Regex study repository
+
+---
+
+## 🌎 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lazincastro/)
+
+---
+
+<p align="center">
+  "Simple. Fast. No spaghetti code."
+</p>
