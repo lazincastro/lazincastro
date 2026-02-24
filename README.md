@@ -1,52 +1,40 @@
-<h1 align="center">Hi, I'm Lazaro 👋</h1>
+<h1 align="center">Lazaro Castro</h1>
 
 <p align="center">
-  Linux • OpenShift • Kubernetes • Automation • DevOps
+  Enterprise Linux • OpenShift • Kubernetes • Automation
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🐧 Working daily with **Linux environments**
-- ☸️ Managing and troubleshooting **OpenShift / Kubernetes**
-- 🔧 Automating things that shouldn’t be manual
-- 🌱 Currently improving my **Java** skills
-- 💬 Ask me about Linux, containers, infra, regex or shell scripting
+Infrastructure professional focused on Linux-based enterprise environments.
 
----
-
-## 🛠 Tech Stack
-
-### Infrastructure & Containers
-- Linux
-- OpenShift
-- Kubernetes
-- Docker
-- Podman
-
-### Scripting & Development
-- Bash
-- Lua
-- Java (learning)
-- Vim / Neovim customization
+Daily experience with container platforms, production troubleshooting, system tuning and automation.  
+Strong interest in reliability, performance and operational excellence.
 
 ---
 
-## 📌 Featured Projects
+## Core Expertise
 
-- 🔹 **tiny-vim** – Minimal and fast Vim setup
-- 🔹 **nvim** – Agnostic Neovim configuration
-- 🔹 **Mastering-Regular-Expressions** – Regex study repository
-
----
-
-## 🌎 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lazincastro/)
+- Enterprise Linux Administration (RHEL-based environments)
+- OpenShift Cluster Operations
+- Kubernetes Workloads & Troubleshooting
+- Performance Analysis
+- Shell Automation
+- Incident Response & Root Cause Analysis
 
 ---
 
-<p align="center">
-  "Simple. Fast. No spaghetti code."
-</p>
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/lazincastro/
